@@ -1,3 +1,7 @@
+# Welcome to my code
+# It is pretty simple to understand
+# 100% bug free... not sure about the warnings though
+
 import pygame
 import pygame_gui
 import math
